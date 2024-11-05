@@ -17,8 +17,8 @@ Tidak ada dependensi eksternal yang diperlukan untuk proyek ini. Kamu hanya meme
 1. **Clone repositori ini**:
 
    ```bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone https://github.com/taufanAli65/CaesarCipherEncription.git
+   cd CaesarCipherEncription
 2. **Jalankan script**:
     ```bash
    python main.py
